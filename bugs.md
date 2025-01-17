@@ -12,3 +12,5 @@
    - Certain elves are placed in small, enclosed spaces surrounded by trees or snow piles, with no viable escape routes.
    - Gifts often spawn in the same spots as elves, causing confusion and competition for both.
    - Some map areas are overly crowded with elves, leading to chaotic situations where players are immediately shot at without a chance to defend or strategize.
+## Santa Search
+1.After playing Santa Search once, the game ends with a "Game over" message. However, when the player presses the "Re-play the game" button under the elf, the game immediately ends again with another "Game over" message, even though the player is attempting to replay.
